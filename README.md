@@ -46,7 +46,7 @@ const aboutMe = {
     },
     devOps: ["AWS", "Docker🐳", "Apache", "Digital Ocean", "Nginx"],
     databases: ["MongoDB", "Postgres", "MySql", "Sqlite"],
-    hardware: ["Arduino", "RaspberryPi", "Johnny Five", "Beagle Bone"]
+    hardware: ["Arduino", "RaspberryPi", "Johnny Five", "Beagle Bone"],
     misc: ["Firebase", "Socket.IO", "MQTT", "Open-CV", "WordPress", "PixiJS"],
   },
   architecture: [
