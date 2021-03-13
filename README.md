@@ -37,6 +37,16 @@ const aboutMe = {
     "iB Hubs Start Up School’18 Alumni",
     "Awarded as National Level Gold Medalist in Software Development by UP Council of Science & Technology in 2016",
   ],
+  communities: {
+    admin: [
+      "Flutter India Telegram Community (https://t.me/FlutterIndia)",
+      "Deno Telegram Community (https://t.me/denolang)",
+      ],
+    contributor: [
+      "Sticky To-Do (https://github.com/RinneganTech/sticky-todo)",
+      "NodeGUI Deb Builder (https://github.com/RinneganTech/nodegui-deb-builder)"
+    ]
+  },
   technologies: {
     mobileApp: ["Xamarin", "Flutter", "Kotlin"],
     desktopApp: [".Net Framework", ".Net Core", "Qt with C++", "Electron", "NodeGUI"],
