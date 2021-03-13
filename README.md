@@ -25,12 +25,13 @@ const aboutMe = {
     "Web Development",
     "Mobile Development",
     "Game Development",
+    "Robotics",
     "Internet of Things",
     "Playing Music Instruments",
   ],
   technologies: {
     mobileApp: ["Xamarin", "Flutter", "Kotlin"],
-    desktopApp: [".Net Framework", "Qt with C++", "Electron", "NodeGUI"],
+    desktopApp: [".Net Framework", ".Net Core", "Qt with C++", "Electron", "NodeGUI"],
     webFrontEnd: {
       typescript: ["VueJS", "NuxtJS"],
       css: ["materialize", "vuetify", "bootstrap", "chakra"],
