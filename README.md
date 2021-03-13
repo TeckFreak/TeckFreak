@@ -29,6 +29,10 @@ const aboutMe = {
     "Internet of Things",
     "Playing Music Instruments",
   ],
+  awardsAndHonours : [
+    "iB Hubs Start Up School’18 Alumni",
+    "Awarded as National Level Gold Medalist in Software Development by UP Council of Science & Technology in 2016",
+  ],
   technologies: {
     mobileApp: ["Xamarin", "Flutter", "Kotlin"],
     desktopApp: [".Net Framework", ".Net Core", "Qt with C++", "Electron", "NodeGUI"],
