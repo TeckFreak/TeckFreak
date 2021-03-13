@@ -8,9 +8,9 @@
 
 [![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/teck.freak)
 
-[![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
-
 ![GitHub followers](https://img.shields.io/github/followers/TeckFreak?label=Follow&style=social)
+
+[![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rinnegan.co/)](https://rinnegan.co/)
 
@@ -52,8 +52,7 @@ const aboutMe = {
     "Electronics and Robotics Applications"
     "Serverless Architecture",
   ],
-  currentFocus: "Comptetive Programming using C++",
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
+<em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
