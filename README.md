@@ -1,7 +1,7 @@
-<h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha (Teck Freak)! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha (Teck Freak)!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-<p><em>Game Developer and Researcher at <a href="https://www.ingenuitygaming.com">Ingenuity Gaming</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Game Developer and Researcher at <a href="https://www.ingenuitygaming.com">Ingenuity Gaming</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
