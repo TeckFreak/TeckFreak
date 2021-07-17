@@ -8,9 +8,9 @@
 <p><em>Game Developer and Researcher at <a href="https://www.ingenuitygaming.com">Ingenuity Gaming</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
+![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
 
 ## More About Me...
 
