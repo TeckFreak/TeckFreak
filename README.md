@@ -75,3 +75,9 @@ const aboutMe = {
 ```
 
 <em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=teckfreak&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teckfreak&langs_count=10)]
+
+[![Rahul's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=teckfreak&layout=compact)]
