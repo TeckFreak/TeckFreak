@@ -12,6 +12,8 @@
 
 ![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
 
+![Rahul's Wakatime stats](https://github-readme-stats-teckfreak.vercel.app/api/wakatime?username=teckfreak&layout=compact)
+
 ## More About Me...
 
 ```typescript
