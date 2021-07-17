@@ -10,7 +10,7 @@
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
 
 ## More About Me...
 
