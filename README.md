@@ -17,7 +17,7 @@
 ```typescript
 const aboutMe = {
   pronouns: "He" | "Him",
-  code: ["C", "C++", "C#", "JavaScript", "TypeScript", "Java", "PHP", "Kotlin"],
+  code: ["C", "C++", "C#", "JavaScript", "TypeScript", "Java", "PHP", "Kotlin", "Rust"],
   askMeAbout: [
     "Desktop Development",
     "Web Development",
@@ -46,7 +46,7 @@ const aboutMe = {
     desktopApp: [".Net Framework", ".Net Core", "Qt with C++", "Electron", "NodeGUI"],
     webFrontEnd: {
       typescript: ["VueJS", "NuxtJS"],
-      css: ["materialize", "vuetify", "bootstrap", "chakra"],
+      css: ["materialize", "vuetify", "bootstrap", "chakra", "tailwind"],
     },
     webBackEnd: {
       typescript: ["Node", "Express", "Deno"],
