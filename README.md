@@ -8,16 +8,6 @@
 <p><em>Game Developer and Researcher at <a href="https://www.ingenuitygaming.com">Ingenuity Gaming</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
-
-[![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/teck.freak)
-
-![GitHub followers](https://img.shields.io/github/followers/TeckFreak?label=Follow&style=social)
-
-[![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
-
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rinnegan.co/)](https://rinnegan.co/)
-
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&layout=compact)
@@ -79,3 +69,15 @@ const aboutMe = {
 ```
 
 <em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
+
+### Connect with me
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
+
+[![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/teck.freak)
+
+![GitHub followers](https://img.shields.io/github/followers/TeckFreak?label=Follow&style=social)
+
+[![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
+
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rinnegan.co/)](https://rinnegan.co/)
