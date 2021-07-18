@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
 
-![Rahul's Wakatime stats](https://github-readme-stats-teckfreak.vercel.app/api/wakatime?username=teckfreak&layout=compact)
+![Rahul's Wakatime stats](https://github-readme-stats-teckfreak.vercel.app/api/wakatime?username=teckfreak&layout=compact&custom_title=Rahul%27s%20Wakatime%20Stats)
 
 <a href="https://stackexchange.com/users/4429338"><img src="https://stackexchange.com/users/flair/4429338.png" width="208" height="58" alt="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
