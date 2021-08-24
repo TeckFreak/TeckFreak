@@ -7,6 +7,7 @@
 
 <p><em>Game Developer and Researcher at <a href="https://www.ingenuitygaming.com">Ingenuity Gaming</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
+<p>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></p>
 
 ![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
 
