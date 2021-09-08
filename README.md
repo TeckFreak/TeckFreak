@@ -54,7 +54,7 @@ const aboutMe = {
       css: ["materialize", "vuetify", "bootstrap", "chakra", "tailwind"],
     },
     webBackEnd: {
-      typescript: ["Node", "Express", "Deno"],
+      typescript: ["Node", "Fastify", "Express", "Deno"],
       php: ["core", "laravel"],
     },
     devOps: ["AWS", "Docker🐳", "Apache", "Digital Ocean", "Nginx"],
