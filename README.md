@@ -5,7 +5,7 @@
 <h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha (TeckFreak)!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-<p><em>Game Developer and Researcher at <a href="https://www.ingenuitygaming.com">Ingenuity Gaming</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<p><em>Senior Software Engineer @ <a href="https://www.10xincubator.com">10X Incubator</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 <p>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></p>
 
