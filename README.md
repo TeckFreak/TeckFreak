@@ -7,6 +7,7 @@
 
 <p><em>Senior Software Engineer @ <a href="https://www.10xincubator.com">10X Incubator</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
+<p>Ex-Game Developer - Ingenuity Gaming</p>
 <p>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></p>
 
 ![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
