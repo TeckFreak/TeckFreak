@@ -10,6 +10,13 @@
 <p>Ex-Game Developer - Ingenuity Gaming</p>
 <p>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></p>
 
+<ul>
+  My GitHub Skyline in 3D:
+  <li><a href="https://skyline.github.com/teckfreak/2022" target="_blank">2022</a> </li>
+  <li><a href="https://skyline.github.com/teckfreak/2021" target="_blank">2021</a> </li>
+  <li><a href="https://skyline.github.com/teckfreak/2020" target="_blank">2020</a> </li>
+</ul>
+
 ![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
