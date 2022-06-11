@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/TeckFreak/TeckFreak/master/name.svg" alt="Rahul Vashishtha" />
 </h1>
 <br/>
-<h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha (TeckFreak)!</h2>
+<h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
 <p><em>Senior Software Engineer @ <a href="https://www.project10k.com">Project 10K (formerly 10X Incubator)</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
