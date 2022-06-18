@@ -93,4 +93,4 @@ const aboutMe = {
 
 [![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rinnegan.co/)](https://rinnegan.co/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rahulv.dev/)](https://rahulv.dev/)
