@@ -5,10 +5,10 @@
 <h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-<p><em>Senior Software Engineer @ <a href="https://www.project10k.com">Project 10K (formerly 10X Incubator)</a> (December 2021 - Present) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<p><em><b>Senior Software Engineer @ <a href="https://www.project10k.com">Project 10K (formerly 10X Incubator)</b></a> (December 2021 - Present) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
-<p>Game Developer - Ingenuity Gaming (February 2020 - December 2021)</p>
-<p>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a> (December 2017 - December 2019)</p>
+<p><b>Game Developer - Ingenuity Gaming</b> (February 2020 - December 2021)</p>
+<p><b>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></b> (December 2017 - December 2019)</p>
 <br />
 Checkout my GitHub Skyline in 3D:
 <ul>
@@ -93,4 +93,4 @@ const aboutMe = {
 
 [![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rahulv.dev/)](https://rahulv.dev/)
+[![rahulv.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rahulv.dev/)](https://rahulv.dev/)
