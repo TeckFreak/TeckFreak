@@ -87,9 +87,9 @@ const aboutMe = {
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
 
-[![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/teck.freak)
+[![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/rahul.vashishtha_)
 
-![GitHub followers](https://img.shields.io/github/followers/TeckFreak?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rahul-vashishtha?label=Follow&style=social)
 
 [![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
 
