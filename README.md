@@ -17,9 +17,9 @@ Checkout my GitHub Skyline in 3D:
   <li><a href="https://skyline.github.com/teckfreak/2020" target="_blank">2020</a> </li>
 </ul>
 
-![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=teckfreak&count_private=true&show_icons=true&theme=dark)
+![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=rahul-vashishtha&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=teckfreak&langs_count=10&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=rahul-vashishtha&langs_count=10&count_private=true&layout=compact)
 
 ![Rahul's Wakatime stats](https://github-readme-stats-teckfreak.vercel.app/api/wakatime?username=teckfreak&layout=compact&custom_title=Rahul%27s%20Wakatime%20Stats)
 
