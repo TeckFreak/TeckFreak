@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TeckFreak/TeckFreak/master/name.svg" alt="Rahul Vashishtha" />
+  <img src="https://raw.githubusercontent.com/rahul-vashishtha/rahul-vashishtha/master/name.svg" alt="Rahul Vashishtha" />
 </h1>
 <br/>
 <h2>नमस्ते 🙏🏻, I'm Rahul Vashishtha!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
 
-<p><em><b>Senior Software Engineer @ <a href="https://www.project10k.com">Project 10K (formerly 10X Incubator)</b></a> (December 2021 - Present) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<p><em><b>Chief Technology Officer @ <a href="https://www.rinnegan.co">Rinnegan</b></a> (November 2022 - Present) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
+<p><b>Senior Software Engineer - Project 10K </b> (December 2021 - October - 2022)</p>
 <p><b>Game Developer - Ingenuity Gaming</b> (February 2020 - December 2021)</p>
 <p><b>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></b> (December 2017 - December 2019)</p>
 <br />
