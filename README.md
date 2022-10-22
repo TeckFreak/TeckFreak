@@ -13,9 +13,9 @@
 <br />
 Checkout my GitHub Skyline in 3D:
 <ul>
-  <li><a href="https://skyline.github.com/teckfreak/2022" target="_blank">2022</a> </li>
-  <li><a href="https://skyline.github.com/teckfreak/2021" target="_blank">2021</a> </li>
-  <li><a href="https://skyline.github.com/teckfreak/2020" target="_blank">2020</a> </li>
+  <li><a href="https://skyline.github.com/rahul-vashishtha/2022" target="_blank">2022</a> </li>
+  <li><a href="https://skyline.github.com/rahul-vashishtha/2021" target="_blank">2021</a> </li>
+  <li><a href="https://skyline.github.com/rahul-vashishtha/2020" target="_blank">2020</a> </li>
 </ul>
 
 ![Rahul's GitHub stats](https://github-readme-stats-teckfreak.vercel.app/api?username=rahul-vashishtha&count_private=true&show_icons=true&theme=dark)
