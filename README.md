@@ -24,7 +24,7 @@ Checkout my GitHub Skyline in 3D:
 
 ![Top Langs](https://github-readme-stats-teckfreak.vercel.app/api/top-langs/?username=rahul-vashishtha&langs_count=10&count_private=true&layout=compact)
 
-![Rahul's Wakatime stats](https://github-readme-stats-teckfreak.vercel.app/api/wakatime?username=rahul_vashishtha&layout=compact&custom_title=Rahul%27s%20Wakatime%20Stats)
+![Rahul's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rahul_vashishtha&layout=compact&custom_title=Rahul%27s%20Wakatime%20Stats)
 
 ![Rahul's Code Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-vashishtha&theme=dark&hide_border=true)
 
