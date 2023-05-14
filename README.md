@@ -54,10 +54,6 @@ const aboutMe = {
       "Flutter India Telegram Community (https://t.me/FlutterIndia)",
       "Deno Telegram Community (https://t.me/denolang)",
       ],
-    contributor: [
-      "Sticky To-Do (https://github.com/RinneganTech/sticky-todo)",
-      "NodeGUI Deb Builder (https://github.com/RinneganTech/nodegui-deb-builder)"
-    ]
   },
   technologies: {
     mobileApp: ["Xamarin", "Flutter", "Kotlin"],
