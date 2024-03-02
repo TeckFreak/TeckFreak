@@ -9,7 +9,7 @@
 </em></p>
 <p><b>Chief Technology Officer - Rinnegan Industries</b> (November 2022 - February 2023)</p>
 <p><b>Senior Software Engineer - Project 10K </b> (December 2021 - October - 2022)</p>
-<p><b>Game Developer - Ingenuity Gaming</b> (February 2020 - December 2021)</p>
+<p><b>Senior Game Developer - Ingenuity Gaming</b> (February 2020 - December 2021)</p>
 <p><b>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></b> (December 2017 - December 2019)</p>
 <br />
 Checkout my GitHub Skyline in 3D:
