@@ -88,7 +88,7 @@ const aboutMe = {
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
 
-[![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/rahul.vashishtha_)
+[![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/rahulvashishtha_)
 
 ![GitHub followers](https://img.shields.io/github/followers/rahul-vashishtha?label=Follow&style=social)
 
