@@ -11,14 +11,6 @@
 <p><b>Senior Software Engineer - Project 10K </b> (December 2021 - October - 2022)</p>
 <p><b>Senior Game Developer - Ingenuity Gaming</b> (February 2020 - December 2021)</p>
 <p><b>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></b> (December 2017 - December 2019)</p>
-<br />
-Checkout my GitHub Skyline in 3D:
-<ul>
-  <li><a href="https://skyline.github.com/rahul-vashishtha/2023" target="_blank">2023</a> </li>
-  <li><a href="https://skyline.github.com/rahul-vashishtha/2022" target="_blank">2022</a> </li>
-  <li><a href="https://skyline.github.com/rahul-vashishtha/2021" target="_blank">2021</a> </li>
-  <li><a href="https://skyline.github.com/rahul-vashishtha/2020" target="_blank">2020</a> </li>
-</ul>
 
 ![Rahul's GitHub stats](https://gh-readme-stats.rahulv.dev/api?username=rahul-vashishtha&count_private=true&show_icons=true&theme=dark)
 
