@@ -28,14 +28,12 @@ Checkout my GitHub Skyline in 3D:
 
 ![Rahul's Code Streak](https://gh-streak-stats.rahulv.dev/?user=rahul-vashishtha&theme=dark&hide_border=true)
 
-<a href="https://stackexchange.com/users/4429338"><img src="https://stackexchange.com/users/flair/4429338.png" width="208" height="58" alt="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
 ## More About Me...
 
 ```typescript
 const aboutMe = {
   pronouns: "He" | "Him",
-  code: ["C", "C++", "C#", "JavaScript", "TypeScript", "Java", "PHP", "Kotlin", "Rust"],
+  code: ["C", "C++", "C#", "JavaScript", "TypeScript", "Java", "PHP", "Kotlin", "Rust", "Go"],
   askMeAbout: [
     "Desktop Development",
     "Web Development",
@@ -84,7 +82,11 @@ const aboutMe = {
 
 <em><b>I love learning new technologies, working on open-source and meet different people so if you want to connect then I'll be happy to meet you more!</b> 😊</em>
 
-### Connect with me
+## Connect with me
+
+<a href="https://stackexchange.com/users/4429338"><img src="https://stackexchange.com/users/flair/4429338.png" width="208" height="58" alt="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rahul-vashishtha-726238b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rahul-vashishtha-726238b2?trk=profile-badge">Rahul Vashishtha</a></div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
 
@@ -95,3 +97,5 @@ const aboutMe = {
 [![Linkedin: Rahul Vashishtha](https://img.shields.io/badge/-Rahul%20Vashishtha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-vashishtha-726238b2/)](https://www.linkedin.com/in/rahul-vashishtha-726238b2/)
 
 [![rahulv.dev](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rahulv.dev/)](https://rahulv.dev/)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
