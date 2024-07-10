@@ -12,6 +12,8 @@
 <p><b>Senior Game Developer - Ingenuity Gaming</b> (February 2020 - December 2021)</p>
 <p><b>Founder - <a href="https://rinnegan.co">Rinnegan Technologies</a></b> (December 2017 - December 2019)</p>
 
+## Stats
+
 ![Rahul's GitHub stats](https://gh-readme-stats.rahulv.dev/api?username=rahul-vashishtha&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://gh-readme-stats.rahulv.dev/api/top-langs/?username=rahul-vashishtha&langs_count=10&count_private=true&layout=compact)
