@@ -80,7 +80,7 @@ const aboutMe = {
 
 <a href="https://stackexchange.com/users/4429338"><img src="https://stackexchange.com/users/flair/4429338.png" width="208" height="58" alt="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Teck Freak on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=teckfreak01)
+[![Twitter Follow](https://img.shields.io/twitter/follow/teckfreak01?label=Follow)](https://twitter.com/intent/follow?screen_name=rahulv_dev)
 
 [![Instagram Follow](https://img.shields.io/badge/Follow-Rahul%20Vashishtha-ff69b4?logo=instagram&style=social)](https://instagram.com/rahulvashishtha_)
 
